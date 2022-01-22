@@ -1,0 +1,23 @@
+Overview of Election Audit: 
+The purpose of this election audit analysis is to submit the election audit results to the election commission.  Going through the audit helped me to understand creating scrips, performing mathematical operations and decision statements to produce screen outputs.
+Election-Audit Results: Using a bulleted list, address the following election outcomes. Use images or examples of your code as support where necessary.
+
+1. 369,711 total votes were cast in this congressional election
+
+2. County Votes:
+- Jefferson: 10.5% (38,855)
+- Denver: 82.8% (306,055)
+- Arapahoe: 6.7% (24,801)	
+
+3. Denver had the largest number of votes.
+
+4. Candidate Votes:
+- Charles Casper Stockham: 23.0% (85,213)
+- Diana DeGette: 73.8% (272,892)
+- Raymon Anthony Doane: 3.1% (11,606)
+
+5. Diana DeGette won the election with 272,892 votes and 73.8% of total votes.
+
+This script can be used for any election with the below modifications:
+- Add, edit and delete candidates in dictionaries or lists
+- Add, edit and delete counties in dictionaries or lists
